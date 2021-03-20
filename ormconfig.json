@@ -1,9 +1,9 @@
 {
   "type": "mysql",
-  "host": "localhost",
+  "host": "aa1rj7kghzz5t5v.c6wpxpzzwpid.us-east-2.rds.amazonaws.com",
   "port": 3306,
-  "username": "root",
-  "password": "Rkdwnsgk89",
+  "username": "junhakang",
+  "password": "rkdwnsgk89",
   "database": "seoul2u",
   "synchronize": true,
   "logging": true,
