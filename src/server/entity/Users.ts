@@ -57,9 +57,4 @@ export class Users extends BaseEntity {
   toJSON() {
     return { ...this, id: undefined };
   }
-
-  // constructor({ title, body }: { title: string; body: string }) {
-  //   super();
-  //   Object.assign(this, { title, body });
-  // }
 }
